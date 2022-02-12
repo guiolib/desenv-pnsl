@@ -9,4 +9,10 @@ instalar o docker
 
 rodar o comando **docker-compose up** na raiz
 
-e voilá wordpress rodando
+e voilá wordpress rodando, na sua máquina...
+
+para acessar o admin, url: localhost:8080/wp-admin user : admin pass:teste-pnsl
+
+Esta não é a melhor forma, poré acredito que é um caminho para irmos trabalhando e ajustando o template do site da paróquia de forma mais compartilhada.
+
+Todo ajuste que fizer é importante/necessário fazer o push no repositório
